@@ -19,6 +19,7 @@
 [GUI deploy]()
 
 [CLI deploy]()
+
 ---
 
 ### Task 2
