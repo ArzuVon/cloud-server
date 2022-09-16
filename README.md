@@ -19,6 +19,9 @@
 
 [CLI deploy](Basicapp-env.eba-2wnd4b3u.us-east-1.elasticbeanstalk.com)
 
+### Deploy
+![deployedApp](https://user-images.githubusercontent.com/107226923/190555059-1260b7b8-44aa-4ea7-a158-4613688507de.png)
+
 ---
 
 ### Task 2
